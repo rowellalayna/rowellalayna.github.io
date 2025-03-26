@@ -1,0 +1,11 @@
+---
+title: "Research and Projects"
+---
+
+## Associating Dysphagia Profiles to the Primary Etiology
+
+![](Etiology.png){onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');" style="object-fit: contain"}
+
+## Community Engagement
+
+Details coming soon!
